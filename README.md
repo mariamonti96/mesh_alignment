@@ -13,8 +13,11 @@ In order to be able to run the code, these libraries should be installed.
 
 When running the code, the libigl viewer will open. To run any of the tasks, the corresponding number should be pressed on the keyboard:
 -'1': Visualisation of two models (M1 and M2) and alignment of M2 with M1 using point-to-point ICP. 
+
 -'2': Progressive rotation of model M1, setting M2= R(M1), alignment of M2 with M1 and evaluation of the convergence behaviour. 
+
 -'3': Progressive perturbation of model M2 by adding white Gaussian noise and evaluation of the performance of the ICP algorithm.
+
 -'6': Point-to-plane ICP. Currently not working.
 
 To know more about the ICP algorithm:
