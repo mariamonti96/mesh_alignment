@@ -1,4 +1,4 @@
-# mesh_alignment
+# Mesh Alignment
 Mesh Alignment using the Iterative Closest Points (ICP) Algorithm
 
 The aim of this project is to implement the Iterative Closest Points (ICP) algorithm for the alignment of meshes, which was originally developed by Chen and Medion and Besl and McKay.
