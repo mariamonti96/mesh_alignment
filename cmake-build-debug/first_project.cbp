@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="first_project"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="msvc8"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/maria/Desktop/UCL/Acquisition and Processing of 3D Geometry/CLionProjects/first_project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\Users\maria\Desktop\UCL\Acquisition and Processing of 3D Geometry\CLionProjects\first_project\cmake-build-debug\Makefile&quot; VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\maria\Desktop\UCL\Acquisition and Processing of 3D Geometry\CLionProjects\first_project\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\Users\maria\Desktop\UCL\Acquisition and Processing of 3D Geometry\CLionProjects\first_project\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\maria\Desktop\UCL\Acquisition and Processing of 3D Geometry\CLionProjects\first_project\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tinyply">
+				<Option output="C:/Users/maria/Desktop/UCL/Acquisition and Processing of 3D Geometry/CLionProjects/first_project/cmake-build-debug/tinyply.lib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maria/Desktop/UCL/Acquisition and Processing of 3D Geometry/CLionProjects/first_project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\Users\maria\Desktop\UCL\Acquisition and Processing of 3D Geometry\CLionProjects\first_project\cmake-build-debug\Makefile&quot; VERBOSE=1 tinyply"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\maria\Desktop\UCL\Acquisition and Processing of 3D Geometry\CLionProjects\first_project\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\Users\maria\Desktop\UCL\Acquisition and Processing of 3D Geometry\CLionProjects\first_project\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\maria\Desktop\UCL\Acquisition and Processing of 3D Geometry\CLionProjects\first_project\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tinyply/fast">
+				<Option output="C:/Users/maria/Desktop/UCL/Acquisition and Processing of 3D Geometry/CLionProjects/first_project/cmake-build-debug/tinyply.lib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maria/Desktop/UCL/Acquisition and Processing of 3D Geometry/CLionProjects/first_project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\Users\maria\Desktop\UCL\Acquisition and Processing of 3D Geometry\CLionProjects\first_project\cmake-build-debug\Makefile&quot; VERBOSE=1 tinyply/fast"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\maria\Desktop\UCL\Acquisition and Processing of 3D Geometry\CLionProjects\first_project\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\Users\maria\Desktop\UCL\Acquisition and Processing of 3D Geometry\CLionProjects\first_project\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\maria\Desktop\UCL\Acquisition and Processing of 3D Geometry\CLionProjects\first_project\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="first_project">
+				<Option output="C:/Users/maria/Desktop/UCL/Acquisition and Processing of 3D Geometry/CLionProjects/first_project/cmake-build-debug/first_project.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maria/Desktop/UCL/Acquisition and Processing of 3D Geometry/CLionProjects/first_project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/Users/maria/Desktop/UCL/Acquisition and Processing of 3D Geometry/CLionProjects/first_project/tinyply"/>
+					<Add directory="C:/Users/maria/Desktop/UCL/Acquisition and Processing of 3D Geometry/CLionProjects/first_project/libigl/include"/>
+					<Add directory="C:/Users/maria/Desktop/UCL/Acquisition and Processing of 3D Geometry/CLionProjects/first_project/eigen-eigen-5a0156e40feb"/>
+					<Add directory="C:/Users/maria/Desktop/UCL/Acquisition and Processing of 3D Geometry/CLionProjects/first_project/glew_2_1_0/include"/>
+					<Add directory="C:/Users/maria/Desktop/UCL/Acquisition and Processing of 3D Geometry/CLionProjects/first_project/glfw-3.2.1/include"/>
+					<Add directory="C:/Users/maria/Desktop/UCL/Acquisition and Processing of 3D Geometry/CLionProjects/first_project/nanoflann-master/include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\Users\maria\Desktop\UCL\Acquisition and Processing of 3D Geometry\CLionProjects\first_project\cmake-build-debug\Makefile&quot; VERBOSE=1 first_project"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\maria\Desktop\UCL\Acquisition and Processing of 3D Geometry\CLionProjects\first_project\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\Users\maria\Desktop\UCL\Acquisition and Processing of 3D Geometry\CLionProjects\first_project\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\maria\Desktop\UCL\Acquisition and Processing of 3D Geometry\CLionProjects\first_project\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="first_project/fast">
+				<Option output="C:/Users/maria/Desktop/UCL/Acquisition and Processing of 3D Geometry/CLionProjects/first_project/cmake-build-debug/first_project.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maria/Desktop/UCL/Acquisition and Processing of 3D Geometry/CLionProjects/first_project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/Users/maria/Desktop/UCL/Acquisition and Processing of 3D Geometry/CLionProjects/first_project/tinyply"/>
+					<Add directory="C:/Users/maria/Desktop/UCL/Acquisition and Processing of 3D Geometry/CLionProjects/first_project/libigl/include"/>
+					<Add directory="C:/Users/maria/Desktop/UCL/Acquisition and Processing of 3D Geometry/CLionProjects/first_project/eigen-eigen-5a0156e40feb"/>
+					<Add directory="C:/Users/maria/Desktop/UCL/Acquisition and Processing of 3D Geometry/CLionProjects/first_project/glew_2_1_0/include"/>
+					<Add directory="C:/Users/maria/Desktop/UCL/Acquisition and Processing of 3D Geometry/CLionProjects/first_project/glfw-3.2.1/include"/>
+					<Add directory="C:/Users/maria/Desktop/UCL/Acquisition and Processing of 3D Geometry/CLionProjects/first_project/nanoflann-master/include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\Users\maria\Desktop\UCL\Acquisition and Processing of 3D Geometry\CLionProjects\first_project\cmake-build-debug\Makefile&quot; VERBOSE=1 first_project/fast"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\maria\Desktop\UCL\Acquisition and Processing of 3D Geometry\CLionProjects\first_project\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\Users\maria\Desktop\UCL\Acquisition and Processing of 3D Geometry\CLionProjects\first_project\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\maria\Desktop\UCL\Acquisition and Processing of 3D Geometry\CLionProjects\first_project\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/maria/Desktop/UCL/Acquisition and Processing of 3D Geometry/CLionProjects/first_project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\Users\maria\Desktop\UCL\Acquisition and Processing of 3D Geometry\CLionProjects\first_project\cmake-build-debug\Makefile&quot; VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\maria\Desktop\UCL\Acquisition and Processing of 3D Geometry\CLionProjects\first_project\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\Users\maria\Desktop\UCL\Acquisition and Processing of 3D Geometry\CLionProjects\first_project\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\maria\Desktop\UCL\Acquisition and Processing of 3D Geometry\CLionProjects\first_project\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/maria/Desktop/UCL/Acquisition and Processing of 3D Geometry/CLionProjects/first_project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\Users\maria\Desktop\UCL\Acquisition and Processing of 3D Geometry\CLionProjects\first_project\cmake-build-debug\Makefile&quot; VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\maria\Desktop\UCL\Acquisition and Processing of 3D Geometry\CLionProjects\first_project\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\Users\maria\Desktop\UCL\Acquisition and Processing of 3D Geometry\CLionProjects\first_project\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\maria\Desktop\UCL\Acquisition and Processing of 3D Geometry\CLionProjects\first_project\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/maria/Desktop/UCL/Acquisition and Processing of 3D Geometry/CLionProjects/first_project/ICP_p2plane.cpp">
+			<Option target="first_project"/>
+		</Unit>
+		<Unit filename="C:/Users/maria/Desktop/UCL/Acquisition and Processing of 3D Geometry/CLionProjects/first_project/ICP_p2plane.h">
+			<Option target="first_project"/>
+		</Unit>
+		<Unit filename="C:/Users/maria/Desktop/UCL/Acquisition and Processing of 3D Geometry/CLionProjects/first_project/calc_barycentre.cpp">
+			<Option target="first_project"/>
+		</Unit>
+		<Unit filename="C:/Users/maria/Desktop/UCL/Acquisition and Processing of 3D Geometry/CLionProjects/first_project/calc_barycentre.h">
+			<Option target="first_project"/>
+		</Unit>
+		<Unit filename="C:/Users/maria/Desktop/UCL/Acquisition and Processing of 3D Geometry/CLionProjects/first_project/icp.cpp">
+			<Option target="first_project"/>
+		</Unit>
+		<Unit filename="C:/Users/maria/Desktop/UCL/Acquisition and Processing of 3D Geometry/CLionProjects/first_project/icp.h">
+			<Option target="first_project"/>
+		</Unit>
+		<Unit filename="C:/Users/maria/Desktop/UCL/Acquisition and Processing of 3D Geometry/CLionProjects/first_project/main.cpp">
+			<Option target="first_project"/>
+		</Unit>
+		<Unit filename="C:/Users/maria/Desktop/UCL/Acquisition and Processing of 3D Geometry/CLionProjects/first_project/point_to_plane.cpp">
+			<Option target="first_project"/>
+		</Unit>
+		<Unit filename="C:/Users/maria/Desktop/UCL/Acquisition and Processing of 3D Geometry/CLionProjects/first_project/point_to_plane.h">
+			<Option target="first_project"/>
+		</Unit>
+		<Unit filename="C:/Users/maria/Desktop/UCL/Acquisition and Processing of 3D Geometry/CLionProjects/first_project/tinyply/tinyply.cpp">
+			<Option target="tinyply"/>
+		</Unit>
+		<Unit filename="C:/Users/maria/Desktop/UCL/Acquisition and Processing of 3D Geometry/CLionProjects/first_project/tinyply/tinyply.h">
+			<Option target="tinyply"/>
+		</Unit>
+		<Unit filename="C:/Users/maria/Desktop/UCL/Acquisition and Processing of 3D Geometry/CLionProjects/first_project/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

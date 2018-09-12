@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="first_project" targetName="first_project" />
+      <config projectName="first_project" targetName="tinyply" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9faef583-b94e-46bc-9ac3-72eaf57f1c03" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/libigl/include/igl/Attribute.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libigl/include/igl/copyleft/cgal/minkowski_sum.cpp" afterPath="$PROJECT_DIR$/libigl/include/igl/copyleft/cgal/minkowski_sum.cpp" />
+      <change beforePath="$PROJECT_DIR$/libigl/include/igl/opengl/MeshGL.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libigl/include/igl/opengl/MeshGL.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libigl/include/igl/opengl/ViewerCore.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libigl/include/igl/opengl/ViewerCore.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libigl/include/igl/opengl/ViewerData.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libigl/include/igl/opengl/ViewerData.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libigl/include/igl/opengl/bind_vertex_attrib_array.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libigl/include/igl/opengl/bind_vertex_attrib_array.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libigl/include/igl/opengl/gl.h" afterPath="$PROJECT_DIR$/libigl/include/igl/opengl/gl.h" />
+      <change beforePath="$PROJECT_DIR$/libigl/include/igl/opengl/glfw/TextRenderer.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libigl/include/igl/opengl/glfw/TextRenderer.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libigl/include/igl/opengl/glfw/TextRenderer_fonts.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libigl/include/igl/opengl/glfw/TextRenderer_fonts.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libigl/include/igl/opengl/glfw/Viewer.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libigl/include/igl/opengl/glfw/Viewer.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libigl/include/igl/opengl/glfw/ViewerPlugin.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libigl/include/igl/opengl/glfw/background_window.cpp" afterPath="$PROJECT_DIR$/libigl/include/igl/opengl/glfw/background_window.cpp" />
+      <change beforePath="$PROJECT_DIR$/libigl/include/igl/opengl/glfw/background_window.h" afterPath="$PROJECT_DIR$/libigl/include/igl/opengl/glfw/background_window.h" />
+      <change beforePath="$PROJECT_DIR$/libigl/include/igl/opengl/glfw/imgui/ImGuiHelpers.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libigl/include/igl/opengl/glfw/imgui/ImGuiMenu.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libigl/include/igl/opengl/glfw/imgui/ImGuiMenu.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/libigl/include/igl/opengl/glfw/map_texture.cpp" afterPath="$PROJECT_DIR$/libigl/include/igl/opengl/glfw/map_texture.cpp" />
+      <change beforePath="$PROJECT_DIR$/libigl/include/igl/opengl/glfw/map_texture.h" afterPath="$PROJECT_DIR$/libigl/include/igl/opengl/glfw/map_texture.h" />
+      <change beforePath="$PROJECT_DIR$/libigl/include/igl/opengl/load_shader.cpp" afterPath="$PROJECT_DIR$/libigl/include/igl/opengl/load_shader.cpp" />
+      <change beforePath="$PROJECT_DIR$/libigl/include/igl/opengl/load_shader.h" afterPath="$PROJECT_DIR$/libigl/include/igl/opengl/load_shader.h" />
+      <change beforePath="$PROJECT_DIR$/libigl/include/igl/opengl2/gl.h" afterPath="$PROJECT_DIR$/libigl/include/igl/opengl2/gl.h" />
+      <change beforePath="$PROJECT_DIR$/libigl/include/igl/per_corner_normals.h" afterPath="$PROJECT_DIR$/libigl/include/igl/per_corner_normals.h" />
+      <change beforePath="$PROJECT_DIR$/libigl/include/igl/serialize.h" afterPath="$PROJECT_DIR$/libigl/include/igl/serialize.h" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="609">
+              <caret line="29" column="100" lean-forward="false" selection-start-line="29" selection-start-column="100" selection-end-line="29" selection-end-column="100" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="364">
+              <caret line="158" column="18" lean-forward="true" selection-start-line="158" selection-start-column="18" selection-end-line="158" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="point_to_plane.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/point_to_plane.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1113">
+              <caret line="53" column="31" lean-forward="false" selection-start-line="53" selection-start-column="31" selection-end-line="53" selection-end-column="31" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="point_to_plane.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/point_to_plane.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ICP_p2plane.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ICP_p2plane.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="12" column="27" lean-forward="false" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ICP_p2plane.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ICP_p2plane.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="9" column="80" lean-forward="false" selection-start-line="9" selection-start-column="80" selection-end-line="9" selection-end-column="80" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="icp.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/icp.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2478">
+              <caret line="118" column="10" lean-forward="false" selection-start-line="118" selection-start-column="10" selection-end-line="118" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="icp.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/icp.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="8" column="51" lean-forward="false" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>file</find>
+      <find>svd</find>
+      <find>read</find>
+      <find>ICP_p2plane</find>
+      <find>A</find>
+      <find>SCAN A</find>
+      <find>read_internal</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/libigl" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ply.h" />
+        <option value="$PROJECT_DIR$/read_ply.cpp" />
+        <option value="$PROJECT_DIR$/read_ply.h" />
+        <option value="$PROJECT_DIR$/test.cpp" />
+        <option value="$PROJECT_DIR$/tinyply-master/source/example.cpp" />
+        <option value="$PROJECT_DIR$/libigl-master/include/igl/opengl/gl.h" />
+        <option value="$PROJECT_DIR$/multi_mesh_example.cpp" />
+        <option value="$PROJECT_DIR$/icp1.h" />
+        <option value="$PROJECT_DIR$/icp1.cpp" />
+        <option value="$PROJECT_DIR$/old_main.cpp" />
+        <option value="$PROJECT_DIR$/libigl-master/include/igl/per_vertex_normals.cpp" />
+        <option value="$PROJECT_DIR$/cmake-build-debug/multiview_main.cpp" />
+        <option value="$PROJECT_DIR$/hello.h" />
+        <option value="$PROJECT_DIR$/hello.cpp" />
+        <option value="$PROJECT_DIR$/calc_barycentre.h" />
+        <option value="$PROJECT_DIR$/calc_barycentre.cpp" />
+        <option value="$PROJECT_DIR$/icp.h" />
+        <option value="$PROJECT_DIR$/ICP_p2plane.h" />
+        <option value="$PROJECT_DIR$/icp.cpp" />
+        <option value="$PROJECT_DIR$/point_to_plane.h" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/ICP_p2plane.cpp" />
+        <option value="$PROJECT_DIR$/point_to_plane.cpp" />
+        <option value="$PROJECT_DIR$/main.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-317" />
+    <option name="y" value="-9" />
+    <option name="width" value="1400" />
+    <option name="height" value="990" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="first_project" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="first_project" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.updates" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Build All">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="first_project" RUN_TARGET_NAME="first_project" EXPLICIT_BUILD_TARGET_NAME="all">
+      <envs />
+    </configuration>
+    <configuration name="first_project" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="first_project" TARGET_NAME="first_project" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="first_project" RUN_TARGET_NAME="first_project">
+      <envs />
+    </configuration>
+    <configuration name="tinyply" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="first_project" TARGET_NAME="tinyply" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Application.Build All" />
+      <item index="1" class="java.lang.String" itemvalue="Application.first_project" />
+      <item index="2" class="java.lang.String" itemvalue="Application.tinyply" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9faef583-b94e-46bc-9ac3-72eaf57f1c03" name="Default" comment="" />
+      <created>1517588889678</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1517588889678</updated>
+      <workItem from="1517588892869" duration="669000" />
+      <workItem from="1518528498279" duration="1451000" />
+      <workItem from="1518530045431" duration="1357000" />
+      <workItem from="1518533946386" duration="394000" />
+      <workItem from="1518534494016" duration="542000" />
+      <workItem from="1518535425089" duration="2878000" />
+      <workItem from="1518629522849" duration="10263000" />
+      <workItem from="1518695723779" duration="4421000" />
+      <workItem from="1518716332884" duration="94083000" />
+      <workItem from="1518979754835" duration="672000" />
+      <workItem from="1518980616103" duration="12156000" />
+      <workItem from="1521477302800" duration="6345000" />
+      <workItem from="1522018151636" duration="210000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="135441000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24427083" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3082873" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3281768" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40220994" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="18" lean-forward="false" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="1" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="15" lean-forward="false" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eigen-eigen-5a0156e40feb/INSTALL">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-252">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ply.h" />
+    <entry file="file://$PROJECT_DIR$/tinyply-master/source/tinyply.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tinyply-master/source/tinyply.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1722">
+          <caret line="82" column="1" lean-forward="false" selection-start-line="82" selection-start-column="1" selection-end-line="82" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/read_ply.h" />
+    <entry file="file://$PROJECT_DIR$/read_ply.cpp" />
+    <entry file="file://$PROJECT_DIR$/test.cpp" />
+    <entry file="file://$PROJECT_DIR$/libigl-master/include/igl/viewer/Viewer.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18375">
+          <caret line="875" column="27" lean-forward="false" selection-start-line="875" selection-start-column="27" selection-end-line="875" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libigl-master/include/igl/opengl/gl.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/glfw-3.2.1/include/GLFW/glfw3.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="1242" column="20" lean-forward="false" selection-start-line="1242" selection-start-column="12" selection-end-line="1242" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tinyply-master/source/example.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="906">
+          <caret line="53" column="6" lean-forward="false" selection-start-line="53" selection-start-column="6" selection-end-line="53" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/glew_2_1_0/include/GL/glew.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="487746">
+          <caret line="23661" column="50" lean-forward="false" selection-start-line="23661" selection-start-column="37" selection-end-line="23661" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eigen-eigen-5a0156e40feb/Eigen/src/Core/AssignEvaluator.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="16" column="43" lean-forward="false" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nanoflann-master/include/nanoflann.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/icp1.h" />
+    <entry file="file://$PROJECT_DIR$/icp1.cpp" />
+    <entry file="file://$PROJECT_DIR$/libigl/include/igl/per_face_normals.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="45" column="38" lean-forward="false" selection-start-line="45" selection-start-column="38" selection-end-line="45" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libigl-master/include/igl/per_vertex_normals.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="42" column="42" lean-forward="false" selection-start-line="42" selection-start-column="42" selection-end-line="42" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eigen-eigen-5a0156e40feb/Eigen/src/Core/Matrix.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="258" column="24" lean-forward="false" selection-start-line="258" selection-start-column="24" selection-end-line="258" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tinyply/tinyply.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4263">
+          <caret line="213" column="17" lean-forward="false" selection-start-line="213" selection-start-column="13" selection-end-line="213" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libigl-master/include/igl/per_face_normals.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="28" column="14" lean-forward="false" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/old_main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="82" column="41" lean-forward="false" selection-start-line="82" selection-start-column="41" selection-end-line="82" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/multiview_main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="615" column="52" lean-forward="false" selection-start-line="615" selection-start-column="52" selection-end-line="615" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libigl-master/include/igl/per_vertex_normals.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="19" column="1" lean-forward="false" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tinyply/tinyply.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="272" column="50" lean-forward="false" selection-start-line="272" selection-start-column="50" selection-end-line="272" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="15" lean-forward="true" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello.h" />
+    <entry file="file://$PROJECT_DIR$/hello.cpp" />
+    <entry file="file://$PROJECT_DIR$/multi_mesh_example.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/calc_barycentre.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/calc_barycentre.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/icp.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="51" lean-forward="false" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="29" column="100" lean-forward="false" selection-start-line="29" selection-start-column="100" selection-end-line="29" selection-end-column="100" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/point_to_plane.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICP_p2plane.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="80" lean-forward="false" selection-start-line="9" selection-start-column="80" selection-end-line="9" selection-end-column="80" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/icp.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2478">
+          <caret line="118" column="10" lean-forward="false" selection-start-line="118" selection-start-column="10" selection-end-line="118" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICP_p2plane.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="27" lean-forward="false" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/point_to_plane.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1113">
+          <caret line="53" column="31" lean-forward="false" selection-start-line="53" selection-start-column="31" selection-end-line="53" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="158" column="18" lean-forward="true" selection-start-line="158" selection-start-column="18" selection-end-line="158" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

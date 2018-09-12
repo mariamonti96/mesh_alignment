@@ -1,0 +1,29 @@
+cmake_minimum_required(VERSION 3.9)
+project(first_project)
+set(CMAKE_VERBOSE_MAKEFILE ON)
+set(CMAKE_CXX_STANDARD 17)
+
+link_libraries(../glew_2_1_0/lib/Release/Win32/glew32s)
+link_libraries(../glfw/lib-vc2015/glfw3)
+
+link_libraries(openGL/OPENGL32)
+link_libraries(openGL/glut32)
+link_libraries(openGL/glu32)
+
+
+#Header Locations
+set(HEADER_DIRS tinyply
+        libigl-master/include/
+        glfw/include/
+        eigen-eigen-5a0156e40feb/
+        glew_2_1_0/include/
+        nanoflann/
+
+        # Library
+        add_library(tinyply tinyply/tinyply.cpp)
+
+        #Executable
+        add_executable(M080Env main.cpp)
+        target_include_directories(M080Env PRIVATE ${HEADER_DIRS})
+        target_link_libraries(M080Env PRIVATE tinyply)
+        )
