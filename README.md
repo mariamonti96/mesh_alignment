@@ -1,7 +1,7 @@
 # Mesh Alignment
 Mesh Alignment using the Iterative Closest Points (ICP) Algorithm
 
-The aim of this project is to implement the Iterative Closest Points (ICP) algorithm for the alignment of meshes, which was originally developed by Chen and Medion and Besl and McKay.
+The aim of this project is to implement the Iterative Closest Points (ICP) algorithm for the alignment of meshes, which was originally developed by Chen and Medioni [2] and Besl and McKay [1].
 
 It provides a method for accurate and computationally efficient registration of 3D shapes and, in particuar, it always converges monotonically to the nearest local minimum of a mean-square distance metric. 
 
@@ -29,16 +29,16 @@ When running the code, the libigl viewer will open. To run any of the tasks, the
 
 To know more about the ICP algorithm:
 
-P. J. Besl and N. D. McKay. A method for registration of 3-d shapes. IEEE Transac-
+[1] P. J. Besl and N. D. McKay. A method for registration of 3-d shapes. IEEE Transac-
 tions on Pattern Analysis and Machine Intelligence, 14(2):239{256, Feb 1992.
 
-Y. Chen and G. Medioni. Object modeling by registration of multiple range images. In
+[2] Y. Chen and G. Medioni. Object modeling by registration of multiple range images. In
 Proceedings. 1991 IEEE International Conference on Robotics and Automation, pages
 2724{2729 vol.3, Apr 1991.
 
-Kok-Lim Low. Linear least-squares optimization for point-to-plane icp surface regis-
+[3] Kok-Lim Low. Linear least-squares optimization for point-to-plane icp surface regis-
 tration. 01 2004.
 
-S. Rusinkiewicz and M. Levoy. Ecient variants of the icp algorithm. In Proceedings
+[4] S. Rusinkiewicz and M. Levoy. Ecient variants of the icp algorithm. In Proceedings
 Third International Conference on 3-D Digital Imaging and Modeling, pages 145{152,
 2001.
